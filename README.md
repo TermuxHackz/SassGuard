@@ -2,7 +2,7 @@
 
 SassGuard is a feature-rich Discord moderation bot that keeps your server safe with style and attitude! Combining powerful protection features with a uniquely sassy personality, SassGuard brings a fresh approach to Discord server management.
 
-<a href="https://imgur.com/SJT5Lu8"><img src="https://i.imgur.com/SJT5Lu8.png" title="source: imgur.com" /></a>
+![SassGuard](sassguard-banner.png)
 
 ## Key Features
 
